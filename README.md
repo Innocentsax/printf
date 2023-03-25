@@ -1,6 +1,8 @@
+<!--
 <p align="center">
 <img src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software.jpeg">
 </p>
+-->
 
 ### TEAM PROJECT ON PRINTF
 ___
