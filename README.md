@@ -54,11 +54,8 @@ Specifier characters at the end define the type and the interpretation of its co
 
 ## Install
 To install execute in terminal
-git clone https://github.com/Ouyei/printf
+git clone https://github.com/Innocentsax/printf
 
-## Compilation
-
-``gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c``
 
 ## EXAMPLES ##
 - _printf functions examples:
